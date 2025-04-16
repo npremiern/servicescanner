@@ -12,6 +12,6 @@ public OUTDTO 메소드명(INDTO indto)
 ** ServiceScanner_v5.java
  * java8 이상
  * 컴파일 : javac -encoding UTF-8 ServiceScanner_v5.java
- * 실행 : java ServiceScanner_v5 ./src/main/java/hlicp/ics/psi > k.csv
+ * 실행 : java ServiceScanner_v5 ./src > serviceList.csv
 
 ※ 완벽하지 않음. 누락있음.
